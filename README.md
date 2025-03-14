@@ -67,7 +67,3 @@ Below is a screenshot of the Myntra Sales Dashboard:
 ## 📝 Conclusion
 This Power BI report provides a deep dive into Myntra’s sales performance, helping businesses make data-driven decisions. Future improvements can include predictive analytics and customer segmentation for targeted marketing.
 
----
-🔗 **Author**: [Tapas Kumar Nayak](https://github.com/yourgithubprofile)  
-📅 **Created On**: February 2025
-
